@@ -1,5 +1,5 @@
 /*
-function pageDimensions(pageId) {
+functiiiiiiiiiiiiiiiion pageDimensions(pageId) {
     var total = 0;
     var header = 0;
     var content = 0;
